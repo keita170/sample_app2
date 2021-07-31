@@ -65,3 +65,5 @@ RSpec.configure do |config|
   config.include FactroyBot::Syntax::Methods
   
 end
+
+
